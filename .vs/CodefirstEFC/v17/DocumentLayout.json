@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|c:\\users\\user\\documents\\sir laeeq\\codefirstefc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|c:\\users\\user\\documents\\sir laeeq\\codefirstefc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|c:\\users\\user\\documents\\sir laeeq\\codefirstefc\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|c:\\users\\user\\documents\\sir laeeq\\codefirstefc\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|c:\\users\\user\\documents\\sir laeeq\\codefirstefc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|c:\\users\\user\\documents\\sir laeeq\\codefirstefc\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|c:\\users\\user\\documents\\sir laeeq\\codefirstefc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|c:\\users\\user\\documents\\sir laeeq\\codefirstefc\\migrations\\20260221071503_codefirstcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|solutionrelative:migrations\\20260221071503_codefirstcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|c:\\users\\user\\documents\\sir laeeq\\codefirstefc\\models\\studentdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|solutionrelative:models\\studentdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|c:\\users\\user\\documents\\sir laeeq\\codefirstefc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -15,8 +43,8 @@
       "RelativeMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|solutionrelative:models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|c:\\users\\user\\documents\\sir laeeq\\codefirstefc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|c:\\users\\user\\documents\\sir laeeq\\codefirstefc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73495F95-FE08-4FA7-8DDA-D87A2896E6F2}|CodefirstEFC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +66,141 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T09:46:46.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T08:20:26.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T08:01:19.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T07:45:36.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswFUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:40:20.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260221071503_CodeFirstCreateDB.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Migrations\\20260221071503_CodeFirstCreateDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260221071503_CodeFirstCreateDB.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Migrations\\20260221071503_CodeFirstCreateDB.cs",
+              "RelativeToolTip": "Migrations\\20260221071503_CodeFirstCreateDB.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:15:03.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDBContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Models\\StudentDBContextFactory.cs",
+              "RelativeDocumentMoniker": "Models\\StudentDBContextFactory.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Models\\StudentDBContextFactory.cs",
+              "RelativeToolTip": "Models\\StudentDBContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:12:46.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T06:38:17.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-21T06:33:34.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "StudentDBContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Models\\StudentDBContext.cs",
               "RelativeDocumentMoniker": "Models\\StudentDBContext.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Models\\StudentDBContext.cs",
               "RelativeToolTip": "Models\\StudentDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T06:28:57.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\sir laeeq\\CodefirstEFC\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
@@ -95,10 +210,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T05:24:59.48Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
