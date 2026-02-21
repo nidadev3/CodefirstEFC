@@ -49,6 +49,8 @@ namespace CodefirstEFC.Controllers
             {
                 await studentDB.Students.AddAsync(std);
                 await studentDB.SaveChangesAsync();
+                TempData["Message"] = "Student created successfully!";
+
                 return RedirectToAction("Index","Home");
             }
             return View(std);
@@ -79,14 +81,41 @@ namespace CodefirstEFC.Controllers
             {
                 studentDB.Students.Update(std);
                 await studentDB.SaveChangesAsync();
+                TempData["Update-Message"] = "Student updated successfully!";
                 return RedirectToAction("Index", "Home");
             }
             return View(std);
         }
         public async Task<IActionResult> Delete(int? id)
         {
+            if (id == null || studentDB.Students == null)
+            {
+                return NotFound();
+            }
             var stdData = await studentDB.Students.FirstOrDefaultAsync(x => x.StudentId == id);
+            if (stdData == null)
+            {
+                return NotFound();
+            }
             return View(stdData);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        public async Task<IActionResult> DeleteConfirmed(int? id)
+        {
+            if (studentDB.Students == null)
+            {
+                return Problem("Entity set 'StudentDBContext.Students'  is null.");
+            }
+            var stdData = await studentDB.Students.FindAsync(id);
+            if (stdData != null)
+            {
+                studentDB.Students.Remove(stdData);
+            }
+            
+            await studentDB.SaveChangesAsync();
+            TempData["Delete-Message"] = "Student Deleted successfully!";
+            return RedirectToAction("Index", "Home");
         }
         public IActionResult Privacy()
         {
